@@ -1,0 +1,9 @@
+README.md
+setup.py
+gp_attention_library.egg-info/GPAttention.png
+gp_attention_library.egg-info/PKG-INFO
+gp_attention_library.egg-info/README.md
+gp_attention_library.egg-info/SOURCES.txt
+gp_attention_library.egg-info/dependency_links.txt
+gp_attention_library.egg-info/requires.txt
+gp_attention_library.egg-info/top_level.txt
